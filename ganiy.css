@@ -161,7 +161,7 @@ p {
     box-shadow: 2px 3px 8px grey;
     text-align: center;
     transition: 0.3s;
-    border: 2px solid #3498db;
+    border: 5px solid #3498db;
 }
 
 .box:hover {
