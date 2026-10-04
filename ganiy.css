@@ -273,7 +273,17 @@ color: white;
 	*/
 
 @media (max-width: 768px) {
-
+body{
+	font-size:16px;
+}
+.para_one, p{
+	font-size:16px !important;
+	line-height:1.6 !important;
+}
+img{
+	width:100% !important;
+	height:auto !important;
+}
 header h1 {
     font-size: 28px;
 }
